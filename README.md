@@ -24,4 +24,7 @@ If you decide to use it set `CHECK_IMDB_ID = True` and specify an API Url. Typic
 ## Thanks
 Some code-parts were taken from https://github.com/akampjes/trakt-list-import !
 
+## fork 
+by owenhalpert to add watchlist
+
 
